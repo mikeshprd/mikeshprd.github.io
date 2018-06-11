@@ -81,5 +81,6 @@ div.photo{
     top:0px;
 }
 div.information{
-    position: relative;
+    position: absolute;
+    top: 300px;
 }
