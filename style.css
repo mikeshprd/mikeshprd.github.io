@@ -3,9 +3,7 @@ body {
     background:aliceblue;
     font-family:sans-serif;font-size:16px;cursor:default;color:AAAAAA
 }
-ul{
-    font-size: 130%;
-}
+
 p {
     font-size: 16px;
 }
@@ -46,7 +44,7 @@ div.cslink{
     margin-bottom: 1em;
 }
 tr,th,td{
-    padding: 25px;
+    padding: 20px;
     text-align: center;
     
 }
@@ -81,4 +79,7 @@ div.photo{
     position:absolute;
     left:0px;
     top:0px;
+}
+div.information{
+    position: relative;
 }
