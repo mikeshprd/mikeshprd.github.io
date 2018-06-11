@@ -1,0 +1,84 @@
+body {
+  
+    background:aliceblue;
+    font-family:sans-serif;font-size:16px;cursor:default;color:AAAAAA
+}
+ul{
+    font-size: 130%;
+}
+p {
+    font-size: 16px;
+}
+h1{
+   color: black;
+   font-family: sans-serif;
+   vertical-align: top;
+   text-align: right;
+   font-size: 180%;
+   
+}
+tr:nth-child(even){
+    background-color:lightskyblue;
+}
+h2{
+    color: black;
+    text-align: right;
+}
+h3{
+    color:black;
+    font-size: 180%;
+    }
+    
+h4, h5{
+    font-size: 180%;
+}
+
+a:hover {
+    color:3A88C2; 
+    
+}
+div.content { 
+    position:relative;
+    width: 80%
+}
+div.cslink{
+    text-align: right;
+    margin-bottom: 1em;
+}
+tr,th,td{
+    padding: 25px;
+    text-align: center;
+    
+}
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+	width: 30%;
+	
+}
+table.assignment{
+    float: right;
+    border-collapse: collapse;
+   padding: 15px;
+
+}
+img.michael{
+    width: auto;
+   margin-right:auto;
+   margin-left:0px;
+   margin-top: 0px;
+   
+}
+div.list{
+    font-size: 130%;
+    float: left;
+}
+div.list2{
+    font-size: 130%;
+   float: right;
+}
+div.photo{
+    position:absolute;
+    left:0px;
+    top:0px;
+}
